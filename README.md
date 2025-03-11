@@ -33,17 +33,5 @@
 -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Weretik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Active Issues
-![GitHub issues](https://img.shields.io/github/issues/Weretik/MyProject)
-
-
-[![GitHub issues](https://img.shields.io/github/issues/Weretik/MyProject?color=yellow)](https://github.com/Weretik/MyProject/issues)
-
-
-## 🚀 My Current Project
-🔹 [Project Name](https://github.com/users/Weretik/projects/1)
-
-[![GitHub Projects](https://img.shields.io/badge/My%20GitHub%20Project-View-blue?style=for-the-badge&logo=github)](https://github.com/users/Weretik/projects/1)
 
