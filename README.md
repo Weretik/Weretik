@@ -42,3 +42,8 @@
 ![GitHub issues](https://img.shields.io/github/issues/Weretik/CSharp-Pro-UA)  
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/Weretik/CSharp-Pro-UA)
 
+
+### 🔗 My Open Issues
+- 📌 [TasksOfSCharp Open Issues](https://github.com/Weretik/TasksOfSCharp/issues)
+- 📌 [CSharp-Pro-UA Open Issues](https://github.com/Weretik/CSharp-Pro-UA/issues)
+
