@@ -1,4 +1,4 @@
-# 💫 About Me:
+E# 💫 About Me:
 👋 Hi, I'm Vitaliy  <br>💻 .NET Developer focused on building business solutions.  <br>🚀 Working with **C#, ASP.NET Core, Blazor, Razor, PostgreSQL.**.  <br>🛠 Prefer **PostgreSQL**, but open to other databases.  <br>🔹 Building monolithic apps in a microservices style with API separation.  <br>
 
 
@@ -16,8 +16,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 
-# 🚀 My Projectы: 
-📌 **[.NET Developer Learning Path](https://github.com/users/Weretik/projects/4)**  - This project was created to organize my .NET Developer training. It includes key topics of C#, SQL, Entity Framework, ASP.NET Core and others. Here I keep track of homework assignments, theoretical materials and practical tasks.
+
+# 🚀 My Projects: 
+📌 **[.NET Developer Learning Path](https://github.com/users/Weretik/projects/4)**  - This project was created to organize my .NET Developer training. It includes key topics of C#, SQL, Entity Framework, ASP.NET Core, and others. I keep track of homework assignments, theoretical materials, and practical tasks here.
+
 
 
 # 📊 GitHub Stats:
