@@ -23,6 +23,9 @@
 📌 **[Book-ye Website Testing Project](https://github.com/users/Weretik/projects/5)**  - This is a **team project** focused on testing the **Book-ye** website. The goal was to thoroughly evaluate the site's **functionality, usability, and critical paths**, identifying and reporting any issues found during the testing process.
 
 
+🔍 **Follow my progress** and check out my repositories!  
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Weretik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Weretik&theme=dark&hide_border=false)<br/>
@@ -35,6 +38,6 @@
 
 -->
 
-🔍 **Follow my progress** and check out my repositories for practical examples!  
+
 
 
