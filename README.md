@@ -40,6 +40,11 @@
 
 -->
 
+# 🏆 Recommendations:
+- "During half a year, I made sure that he is a responsible and fast-learning person..." - [Mykhailo Semenikhim](https://www.linkedin.com/in/vitaliythupin/)
+- "I have noticed his ability to quickly adapt and take initiative..." - [Olga Bogush](https://github.com/Weretik/Portfolio-QA-Engineer/blob/main/Recommendations/Recommendation%20from%20Olha%20Bohush%20(Kedr%2C%20Doorios).pdf)
+- "His approach was deep and technical, which helped enhance the website’s functionality..." - [Brevi company](https://github.com/Weretik/Portfolio-QA-Engineer/blob/main/Recommendations/Recommendation%20from%20Yulia%20Sogokon%20(Brevi).pdf)
+
 
 
 
