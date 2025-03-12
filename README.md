@@ -14,6 +14,15 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
+# 🚀 My Learning Project  
+📌 **[.NET Developer Learning Path](https://github.com/users/Weretik/projects/4)**  
+This project helps me structure my learning process, covering:  
+- C# Essentials & Advanced topics  
+- SQL Fundamentals & T-SQL  
+- Entity Framework Core & Database Design  
+- ASP.NET Core & Web Development  
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Weretik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -26,11 +35,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Weretik&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 -->
-### 📌 Issues Status
 
-[C# basic:](https://github.com/Weretik/TasksOfSCharp/issues) ![GitHub issues](https://img.shields.io/github/issues/Weretik/TasksOfSCharp?color=yellow) ![GitHub closed issues](https://img.shields.io/github/issues-closed/Weretik/TasksOfSCharp?color=purple) 
-
-[C# for professionals:](https://github.com/Weretik/CSharp-Pro-UA/issues) ![GitHub issues](https://img.shields.io/github/issues/Weretik/CSharp-Pro-UA?color=yellow) ![GitHub closed issues](https://img.shields.io/github/issues-closed/Weretik/CSharp-Pro-UA?color=purple)
-
+🔍 **Follow my progress** and check out my repositories for practical examples!  
 
 
