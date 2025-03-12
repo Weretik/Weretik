@@ -10,9 +10,9 @@
 
 ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ADO.NET](https://img.shields.io/badge/ADO.NET-7D3FC2?style=for-the-badge&logo=dotnet&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 
 # 📊 GitHub Stats:
@@ -28,13 +28,9 @@
 -->
 ### 📌 Issues Status
 
-[C# basic](https://github.com/Weretik/TasksOfSCharp/issues)
+[C# basic:](https://github.com/Weretik/TasksOfSCharp/issues) ![GitHub issues](https://img.shields.io/github/issues/Weretik/TasksOfSCharp?color=yellow) ![GitHub closed issues](https://img.shields.io/github/issues-closed/Weretik/TasksOfSCharp?color=purple) 
 
-![GitHub issues](https://img.shields.io/github/issues/Weretik/TasksOfSCharp?color=yellow) ![GitHub closed issues](https://img.shields.io/github/issues-closed/Weretik/TasksOfSCharp?color=purple) 
-
-[C# for professionals](https://github.com/Weretik/CSharp-Pro-UA/issues)
-
-![GitHub issues](https://img.shields.io/github/issues/Weretik/CSharp-Pro-UA) ![GitHub closed issues](https://img.shields.io/github/issues-closed/Weretik/CSharp-Pro-UA)
+[C# for professionals:](https://github.com/Weretik/CSharp-Pro-UA/issues) ![GitHub issues](https://img.shields.io/github/issues/Weretik/CSharp-Pro-UA?color=yellow) ![GitHub closed issues](https://img.shields.io/github/issues-closed/Weretik/CSharp-Pro-UA?color=purple)
 
 
 
