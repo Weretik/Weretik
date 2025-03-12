@@ -5,6 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vitaliythupin/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vitalii_tsiupin?igsh=dzl6eDM3OWozbHBs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vitalii_DotNet) 
 
+
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-7D3FC2?style=for-the-badge&logo=blazor&logoColor=white) ![Razor Pages](https://img.shields.io/badge/Razor%20Pages-7D3FC2?style=for-the-badge&logo=dotnet&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-2D76B8?style=for-the-badge&logo=dotnet&logoColor=white)
 
@@ -14,14 +15,9 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
-# 🚀 My Learning Project  
-📌 **[.NET Developer Learning Path](https://github.com/users/Weretik/projects/4)**  
-This project helps me structure my learning process, covering:  
-- C# Essentials & Advanced topics  
-- SQL Fundamentals & T-SQL  
-- Entity Framework Core & Database Design  
-- ASP.NET Core & Web Development  
 
+# 🚀 My Projectы: 
+📌 **[.NET Developer Learning Path](https://github.com/users/Weretik/projects/4)**  - This project was created to organize my .NET Developer training. It includes key topics of C#, SQL, Entity Framework, ASP.NET Core and others. Here I keep track of homework assignments, theoretical materials and practical tasks.
 
 
 # 📊 GitHub Stats:
