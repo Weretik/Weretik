@@ -1,4 +1,4 @@
-E# 💫 About Me:
+# 💫 About Me:
 👋 Hi, I'm Vitaliy  <br>💻 .NET Developer focused on building business solutions.  <br>🚀 Working with **C#, ASP.NET Core, Blazor, Razor, PostgreSQL.**.  <br>🛠 Prefer **PostgreSQL**, but open to other databases.  <br>🔹 Building monolithic apps in a microservices style with API separation.  <br>
 
 
