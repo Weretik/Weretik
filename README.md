@@ -25,11 +25,20 @@
 ![](https://github-readme-stats.vercel.app/api?username=Weretik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Weretik&theme=dark&hide_border=false)<br/>
 
-
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Weretik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Weretik&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
+-->
+### 📌 Issues Status
 
+#### **TasksOfSCharp**  
+![GitHub issues](https://img.shields.io/github/issues/Weretik/TasksOfSCharp)  
+![GitHub closed issues](https://img.shields.io/github/issues-closed/Weretik/TasksOfSCharp)  
+
+#### **CSharp-Pro-UA**  
+![GitHub issues](https://img.shields.io/github/issues/Weretik/CSharp-Pro-UA)  
+![GitHub closed issues](https://img.shields.io/github/issues-closed/Weretik/CSharp-Pro-UA)
 
