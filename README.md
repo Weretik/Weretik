@@ -20,6 +20,8 @@
 # 🚀 My Projects: 
 📌 **[.NET Developer Learning Path](https://github.com/users/Weretik/projects/4)**  - This project was created to organize my .NET Developer training. It includes key topics of C#, SQL, Entity Framework, ASP.NET Core, and others. I keep track of homework assignments, theoretical materials, and practical tasks here.
 
+📌 **[Brevi Website Testing Project](https://github.com/users/Weretik/projects/6)**  - This project documents the **testing process** for the **[Brevi website](https://brevi.com.ua/)**. The objective was to evaluate the website’s **functionality, usability, and API performance**, detect issues, and provide detailed reports for improvements. 
+
 📌 **[Book-ye Website Testing Project](https://github.com/users/Weretik/projects/5)**  - This is a **team project** focused on testing the **Book-ye** website. The goal was to thoroughly evaluate the site's **functionality, usability, and critical paths**, identifying and reporting any issues found during the testing process.
 
 
