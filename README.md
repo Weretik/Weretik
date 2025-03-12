@@ -8,9 +8,7 @@
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-7D3FC2?style=for-the-badge&logo=blazor&logoColor=white) ![Razor Pages](https://img.shields.io/badge/Razor%20Pages-7D3FC2?style=for-the-badge&logo=dotnet&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-2D76B8?style=for-the-badge&logo=dotnet&logoColor=white)
 
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ADO.NET](https://img.shields.io/badge/ADO.NET-7D3FC2?style=for-the-badge&logo=dotnet&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ADO.NET](https://img.shields.io/badge/ADO.NET-7D3FC2?style=for-the-badge&logo=dotnet&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
@@ -30,10 +28,12 @@
 -->
 ### 📌 Issues Status
 
-- [C# basic](https://github.com/Weretik/TasksOfSCharp/issues) 
+[C# basic](https://github.com/Weretik/TasksOfSCharp/issues)
+
 ![GitHub issues](https://img.shields.io/github/issues/Weretik/TasksOfSCharp?color=yellow) ![GitHub closed issues](https://img.shields.io/github/issues-closed/Weretik/TasksOfSCharp?color=purple) 
 
-- [C# for professionals](https://github.com/Weretik/CSharp-Pro-UA/issues)
+[C# for professionals](https://github.com/Weretik/CSharp-Pro-UA/issues)
+
 ![GitHub issues](https://img.shields.io/github/issues/Weretik/CSharp-Pro-UA) ![GitHub closed issues](https://img.shields.io/github/issues-closed/Weretik/CSharp-Pro-UA)
 
 
