@@ -4,7 +4,7 @@
 📦 I prefer **monolithic architecture with modular design**, and I'm gradually exploring **microservice practices**.  
 🧠 Strong believer in clean code, continuous learning, and delivering real business value.  
 🚀 Skilled in working with **EF Core**, **Redis**, **Docker**, **Azure**, **Postman**, and **GitHub**.  
-🎯 Currently leveling up my automation and testing skills with **Selenium** and **NUnit**.
+🎯 I am leveling up my automation and testing skills with **Selenium** and **NUnit**.
 
 
 
@@ -13,97 +13,38 @@
 
 
 # 💻 Tech Stack:
-<p align="left">
-  <!-- C# / .NET -->
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img alt="C#" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img alt=".NET" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
-    <img alt="ASP.NET Core" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" />
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank">
-    <img alt="Blazor" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" />
-  </a>
+<!-- C# / .NET -->
+![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET-512BD4?style=plastic&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=plastic&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=plastic&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=plastic&logo=redis&logoColor=white)
 
-  <!-- EF Core / DB -->
-  <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank">
-    <img alt="Entity Framework Core" height="42px" src="https://www.svgrepo.com/show/303229/sql-database-generic.svg" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img alt="PostgreSQL" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img alt="MySQL" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/sql/t-sql/" target="_blank">
-    <img alt="T-SQL" height="42px" src="https://www.svgrepo.com/show/374169/sql.svg" />
-  </a>
-  <a href="https://redis.io/" target="_blank">
-    <img alt="Redis" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-  </a>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=plastic&logo=microsoftazure&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwindcss&logoColor=white)
 
-  <!-- DevOps -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img alt="Docker" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img alt="Azure" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  </a>
-  <a href="https://github.com/features/actions" target="_blank">
-    <img alt="GitHub Actions" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  </a>
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
+<!-- Frontend -->
 
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img alt="Git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img alt="GitHub" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  </a>
 
-  <!-- Frontend -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img alt="HTML5" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img alt="CSS3" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img alt="Tailwind CSS" height="42px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-  </a>
+<!-- Testing -->
 
-  <!-- Testing -->
-  <a href="https://www.postman.com/" target="_blank">
-    <img alt="Postman" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank">
-    <img alt="Selenium" height="42px" src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" />
-  </a>
-  <a href="https://nunit.org/" target="_blank">
-    <img alt="NUnit" height="42px" src="https://avatars.githubusercontent.com/u/8761546?s=200&v=4" />
-  </a>
-  
-  <!-- Project Management -->
-  <a href="https://github.com/features/project-management" target="_blank">
-    <img alt="GitHub Projects" height="42px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" />
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img alt="Jira" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-  </a>
-  
-  <!--Design Tools -->
-  <a href="https://www.canva.com/" target="_blank">
-    <img alt="Canva" height="42px" src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img alt="Figma" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  </a>
-  
-</p> 
+<!-- ![NUnit](https://img.shields.io/badge/NUnit-800000?style=for-the-badge&logo=nunit&logoColor=white) -->
 
+
+
+</p>
 
 
 # 🚀 My Projects: 
