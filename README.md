@@ -1,10 +1,9 @@
-# 💫 About Me:
-👋 Hi, I'm Vitaliy — a .NET Developer passionate about building clean, scalable, and maintainable applications.  
-💡 I specialize in **ASP.NET Core**, **Blazor**, focusing on modern web development using **C#** and the .NET ecosystem.  
-📦 I prefer **monolithic architecture with modular design**, and I'm gradually exploring **microservice practices**.  
-🧠 Strong believer in clean code, continuous learning, and delivering real business value.  
-🚀 Skilled in working with **EF Core**, **Redis**, **Docker**, **Azure**, **Postman**, and **GitHub**.  
-🎯 I am leveling up my automation and testing skills with **Selenium** and **NUnit**.
+# 💫 About Me
+👋 Hi, I'm Vitaliy — a .NET Developer focused on building scalable, clean, and business-oriented applications.  
+💡 Specialized in **ASP.NET Core**, **Blazor**, and modern web development with **C#** and the .NET ecosystem.  
+📦 Favor **modular monoliths** with clean architecture, while gradually exploring **microservice patterns**.  
+🛠 Proficient with **EF Core**, **Redis**, **Docker**, **Azure**, **Postman**, and **GitHub**.  
+🧪 Currently advancing in **automation testing** using **NUnit**. 
 
 
 
