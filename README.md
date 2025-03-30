@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hi, I'm Vitaliy  <br>💻 .NET Developer focused on building business solutions.  <br>🚀 Working with **C#, ASP.NET Core, Blazor, Razor, PostgreSQL.**.  <br>🛠 Prefer **PostgreSQL**, but open to other databases.  <br>🔹 Building monolithic apps in a microservices style with API separation.  <br>
+👋 Hi, I'm Vitaliy — a .NET Developer passionate about building clean, scalable, and maintainable applications.  
+💡 I specialize in **ASP.NET Core**, **Blazor**, focusing on modern web development using **C#** and the .NET ecosystem.  
+📦 I prefer **monolithic architecture with modular design**, and I'm gradually exploring **microservice practices**.  
+🧠 Strong believer in clean code, continuous learning, and delivering real business value.  
+🚀 Skilled in working with **EF Core**, **Redis**, **Docker**, **Azure**, **Postman**, and **GitHub**.  
+🎯 Currently leveling up my automation and testing skills with **Selenium** and **NUnit**.
+
 
 
 ## 🌐 Socials:
@@ -7,13 +13,96 @@
 
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-7D3FC2?style=for-the-badge&logo=blazor&logoColor=white) ![Razor Pages](https://img.shields.io/badge/Razor%20Pages-7D3FC2?style=for-the-badge&logo=dotnet&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-2D76B8?style=for-the-badge&logo=dotnet&logoColor=white)
+<p align="left">
+  <!-- C# / .NET -->
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img alt="C#" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img alt=".NET" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
+    <img alt="ASP.NET Core" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" />
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank">
+    <img alt="Blazor" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" />
+  </a>
 
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ADO.NET](https://img.shields.io/badge/ADO.NET-7D3FC2?style=for-the-badge&logo=dotnet&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  <!-- EF Core / DB -->
+  <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank">
+    <img alt="Entity Framework Core" height="42px" src="https://www.svgrepo.com/show/303229/sql-database-generic.svg" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="PostgreSQL" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/sql/t-sql/" target="_blank">
+    <img alt="T-SQL" height="42px" src="https://www.svgrepo.com/show/374169/sql.svg" />
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img alt="Redis" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  </a>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=Canva&logoColor=white)
+  <!-- DevOps -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img alt="Docker" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img alt="Azure" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img alt="GitHub Actions" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </a>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img alt="GitHub" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </a>
+
+  <!-- Frontend -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img alt="HTML5" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img alt="CSS3" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="Tailwind CSS" height="42px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+  </a>
+
+  <!-- Testing -->
+  <a href="https://www.postman.com/" target="_blank">
+    <img alt="Postman" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank">
+    <img alt="Selenium" height="42px" src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" />
+  </a>
+  <a href="https://nunit.org/" target="_blank">
+    <img alt="NUnit" height="42px" src="https://avatars.githubusercontent.com/u/8761546?s=200&v=4" />
+  </a>
+  
+  <!-- Project Management -->
+  <a href="https://github.com/features/project-management" target="_blank">
+    <img alt="GitHub Projects" height="42px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" />
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img alt="Jira" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+  </a>
+  
+  <!--Design Tools -->
+  <a href="https://www.canva.com/" target="_blank">
+    <img alt="Canva" height="42px" src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img alt="Figma" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  </a>
+  
+</p> 
 
 
 
