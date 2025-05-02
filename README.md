@@ -1,9 +1,9 @@
 # 💫 About Me
-👋 Hi, I'm Vitaliy — a .NET Developer focused on building scalable, clean, and business-oriented applications.  
-💡 Specialized in **ASP.NET Core**, **Blazor**, and modern web development with **C#** and the .NET ecosystem.  
-📦 Favor **modular monoliths** with clean architecture, while gradually exploring **microservice patterns**.  
-🛠 Proficient with **EF Core**, **Redis**, **Docker**, **Azure**, **Postman**, and **GitHub**.  
-🧪 Currently advancing in **automation testing** using **NUnit**. 
+👋 Hi, I'm Vitaliy — a .NET Developer building modern, business-oriented web applications using **Clean Architecture** principles.
+🏗 I design scalable solutions based on **ASP.NET Core MVC**, **Razor**, and **Blazor**, with a strong focus on maintainability and clarity.
+🧩 Passionate about domain-driven design, layered architecture, and real-world implementations of modular monoliths.
+🛠 Experienced with **Entity Framework Core**, **Redis**, **Docker**, **PostgreSQL**.
+📁 Actively working on real projects, including internal CRM and e-commerce platforms, using **C#**, **MediatR**, and **AutoMapper**.
 
 
 
@@ -23,7 +23,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=plastic&logo=redis&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=plastic&logo=microsoftazure&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
@@ -47,6 +46,8 @@
 
 
 # 🚀 My Projects: 
+📌 **[ASP.NET core MVC]** [Kerd Store Project](https://github.com/users/Weretik/projects/7)  - ASP.NET Core MVC  Real-world e-commerce platform built with Clean Architecture. Razor, PostgreSQL, AutoMapper, MediatR, FluentValidation, and more.
+
 📌 **[C# .Net]** [.NET Developer Learning Path](https://github.com/users/Weretik/projects/4)  - This project was created to organize my .NET Developer training. It includes key topics of C#, SQL, Entity Framework, ASP.NET Core, and others. I keep track of homework assignments, theoretical materials, and practical tasks here.
 
 📌 **[QA]** [Brevi Website Testing Project](https://github.com/users/Weretik/projects/6)  - This project documents the **testing process** for the **[Brevi website](https://brevi.com.ua/)**. The objective was to evaluate the website’s **functionality, usability, and API performance**, detect issues, and provide detailed reports for improvements. 
