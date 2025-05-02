@@ -1,8 +1,12 @@
 # 💫 About Me
 👋 Hi, I'm Vitaliy — a .NET Developer building modern, business-oriented web applications using **Clean Architecture** principles.
+
 🏗 I design scalable solutions based on **ASP.NET Core MVC**, **Razor**, and **Blazor**, with a strong focus on maintainability and clarity.
+
 🧩 Passionate about domain-driven design, layered architecture, and real-world implementations of modular monoliths.
+
 🛠 Experienced with **Entity Framework Core**, **Redis**, **Docker**, **PostgreSQL**.
+
 📁 Actively working on real projects, including internal CRM and e-commerce platforms, using **C#**, **MediatR**, and **AutoMapper**.
 
 
