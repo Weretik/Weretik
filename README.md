@@ -15,38 +15,40 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vitaliythupin/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vitalii_tsiupin?igsh=dzl6eDM3OWozbHBs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vitalii_DotNet) 
 
 
-# 💻 Tech Stack:
-<!-- C# / .NET -->
+### 🧠 Core Technologies
 ![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET-512BD4?style=plastic&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=plastic&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=plastic&logo=dotnet&logoColor=white)
+
 ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=plastic&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=plastic&logo=redis&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+![Serilog](https://img.shields.io/badge/Serilog-15C213?style=plastic&logo=serilog&logoColor=white)
+![MediatR](https://img.shields.io/badge/MediatR-000000?style=plastic&logo=mediatr&logoColor=white)
+![AutoMapper](https://img.shields.io/badge/AutoMapper-D94F45?style=plastic&logo=automapper&logoColor=white)
+
+### 🎨 UI & Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwindcss&logoColor=white)
+![Razor](https://img.shields.io/badge/Razor-512BD4?style=plastic&logo=dotnet&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 
+### 🧪 Testing & QA Tools
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
-<!-- Frontend -->
+![Fiddler Everywhere](https://img.shields.io/badge/Fiddler_Everywhere-007ACC?style=plastic)
 
-
-<!-- Testing -->
-
-<!-- ![NUnit](https://img.shields.io/badge/NUnit-800000?style=for-the-badge&logo=nunit&logoColor=white) -->
-
-
-
-</p>
+### 🧰 Additional Skills
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=plastic&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=plastic&logo=azuredevops&logoColor=white)
 
 
 # 🚀 My Projects: 
