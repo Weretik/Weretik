@@ -51,8 +51,10 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=plastic&logo=azuredevops&logoColor=white)
 
 
-# 🚀 My Projects: 
-📌 **[ASP.NET core MVC]** [Kerd Store Project](https://github.com/users/Weretik/projects/7)  - ASP.NET Core MVC  Real-world e-commerce platform built with Clean Architecture. Razor, PostgreSQL, AutoMapper, MediatR, FluentValidation, and more.
+# 🚀 My Projects:
+📌 **[ASP.NET core]** [Brevi CRM Project](https://github.com/users/Weretik/projects/8)  - Business-oriented CRM built with Blazor Web App (.NET 8), Clean Architecture, Identity, PostgreSQL, and MudBlazor.
+
+📌 **[ASP.NET core]** [Kerd Store Project](https://github.com/users/Weretik/projects/7)  - Modular B2B/B2C e-commerce app for Kedr. Built with Blazor Web App and Clean Architecture using MediatR, AutoMapper, ASP.NET Core Identity, PostgreSQL, Tailwind CSS / DaisyUI, and MudBlazor.
 
 📌 **[C# .Net]** [.NET Developer Learning Path](https://github.com/users/Weretik/projects/4)  - This project was created to organize my .NET Developer training. It includes key topics of C#, SQL, Entity Framework, ASP.NET Core, and others. I keep track of homework assignments, theoretical materials, and practical tasks here.
 
