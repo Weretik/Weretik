@@ -1,21 +1,49 @@
-# 💫 About Me
-👋 Hi, I'm Vitaliy — a .NET Developer building modern, business-oriented web applications using **Clean Architecture** principles.<br/>
-🏗 I design scalable solutions based on **ASP.NET Core MVC**, **Razor**, and **Blazor**, with a strong focus on maintainability and clarity.<br/>
-🧩 Passionate about domain-driven design, layered architecture, and real-world implementations of modular monoliths.<br/>
-🛠 Experienced with **Entity Framework Core**, **Redis**, **Docker**, **PostgreSQL**.<br/>
-📁 Actively working on real projects, including internal CRM and e-commerce platforms, using **C#**, **MediatR**, and **AutoMapper**.<br/>
+# 👨‍💻 Full-Stack .NET / Angular Engineer
+
+I build production-grade CRM and e-commerce systems using **ASP.NET Core**, **Angular 21+**, **PostgreSQL**, and **Docker**, focusing on clean architecture, modularity, performance, and long-term maintainability.
+
+My engineering approach combines **domain modeling**, **scalable API design**, **event-driven patterns**, and **modern frontend architecture** based on feature modules and reactive state management.
 
 ---
-| Direction                            | Skill / Knowledge                    |
-| ------------------------------------ | -------------------------------------|
-| 🧠 Core Technologies                | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=plastic&logo=dotnet&logoColor=white) ![Blazor Web App](https://img.shields.io/badge/Blazor_Web_App-512BD4?style=plastic&logo=dotnet&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=plastic&logo=dotnet&logoColor=white)  ![Redis](https://img.shields.io/badge/Redis-DD0031?style=plastic&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)      
-| 📦 NuGet Packages                  | ![MudBlazor](https://img.shields.io/badge/MudBlazor-512BD4?style=plastic&logo=dotnet&logoColor=white) ![Fluxor](https://img.shields.io/badge/Fluxor-D94F45?style=plastic&logo=automapper&logoColor=white) ![Ardalis](https://img.shields.io/badge/Ardalis-007ACC?style=plastic&logo=azuredevops&logoColor=white)  ![Mediator](https://img.shields.io/badge/Mediator-000000?style=plastic&logo=mediatr&logoColor=white) ![Mapster](https://img.shields.io/badge/Mapster-D94F45?style=plastic&logo=automapper&logoColor=white) ![Serilog](https://img.shields.io/badge/Serilog-15C213?style=plastic&logo=serilog&logoColor=white)             |
-| ⚙️ Architectural Patterns                 |  ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6E4AFF?style=plastic&logo=archlinux&logoColor=white)  ![CQRS](https://img.shields.io/badge/CQRS-007ACC?style=plastic&logo=microsoft&logoColor=white) ![DDD](https://img.shields.io/badge/DDD-007ACC?style=plastic&logo=microsoft&logoColor=white)              |
-| 🎨 UI & Web Development               |    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)                   |
-| 🧪 Testing & QA Tools                 |  ![XUnit](https://img.shields.io/badge/XUnit-15C213?style=plastic&logo=serilog&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white) ![Fiddler Everywhere](https://img.shields.io/badge/Fiddler_Everywhere-007ACC?style=plastic)                  |
-| 🧰 Additional Skills                   |  ![JetBrains Rider](https://img.shields.io/badge/JetBrains_Rider-000000?style=plastic&logo=jetbrains&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)  ![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=plastic&logo=azuredevops&logoColor=white)                 |
+
+# 🧠 Tech Stack Overview
+
+## 🔹 Backend
+- **.NET 8/9**, ASP.NET Core Web API  
+- **Clean Architecture**, **DDD**, **CQRS**  
+- **EF Core 8/9**, LINQ, Migrations  
+- **PostgreSQL**, indexes, query optimization  
+- **Redis** (cache, key-value state)  
+- **Serilog** (structured logging)  
+- **Docker**, Docker Compose  
+- **CI/CD**: GitHub Actions  
+
+## 🔹 Frontend
+- **Angular 21+** (standalone API, signals, zoneless apps)  
+- **RxJS / Signals Store**  
+- **Feature-based architecture**  
+- **HttpClient**, interceptors, API services  
+- **State management** (signals, Fluxor-like patterns)  
+- **Adaptive UI**, MudBlazor (for Blazor projects)  
+
+## 🔹 Architecture & Patterns
+- Modular Monolith  
+- Layered boundaries (Domain / Application / Infrastructure / Presentation)  
+- Domain Events & Event Bus  
+- Validation pipelines  
+- Caching strategies  
+- API versioning & contract-first design  
+
+## 🔹 Tools & Workflow
+- JetBrains Rider  
+- Git / GitHub  
+- Docker Desktop  
+- Postman, Thunder Client  
+- Swagger / OpenAPI  
+- Jira, Notion (task management)
 
 ---
+
 
 ## 🚀 Real Projects
 
