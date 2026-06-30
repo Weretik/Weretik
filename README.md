@@ -16,53 +16,17 @@ My main focus is backend/full-stack development for real business processes: pro
 
 ---
 
+
 ## 🛠️ Tech Stack
 
-### Backend
-- **C#**
-- **ASP.NET Core**
-- **REST API**
-- **Entity Framework Core**
-- **Authentication / Authorization**
-- **MediatR basics**
-- **FluentValidation basics**
+| Area | Technologies & Skills |
+|---|---|
+| **Backend** | C#, ASP.NET Core, REST API, Entity Framework Core, Authentication / Authorization, MediatR basics, FluentValidation basics |
+| **Frontend** | Angular, TypeScript, HTML / CSS, RxJS, Angular Services, API integration, Admin panels and business UI |
+| **Databases** | PostgreSQL, SQL, database modeling, migrations, relations, indexes, query optimization basics |
+| **Architecture** | Clean Architecture, Layered Architecture, practical DDD / CQRS patterns, modular application structure, business logic modeling, validation pipelines |
+| **Infrastructure & Tools** | Docker, Docker Compose, Git / GitHub, GitHub Actions, basic CI/CD, VPS / deployment basics, Swagger / OpenAPI, JetBrains Rider, Visual Studio, Postman / Thunder Client |
 
-### Frontend
-- **Angular**
-- **TypeScript**
-- **HTML / CSS**
-- **RxJS**
-- **Angular Services**
-- **API integration**
-- **Admin panels and business UI**
-
-### Databases
-- **PostgreSQL**
-- **SQL**
-- Database modeling
-- Migrations
-- Relations, indexes, query optimization basics
-
-### Architecture & Engineering
-- Clean Architecture
-- Layered Architecture
-- Practical DDD / CQRS patterns
-- Modular application structure
-- Business logic modeling
-- Validation pipelines
-- Maintainable code structure
-
-### Infrastructure & Tools
-- **Docker**
-- **Docker Compose**
-- **Git / GitHub**
-- **GitHub Actions**
-- Basic CI/CD
-- VPS / deployment basics
-- Swagger / OpenAPI
-- JetBrains Rider
-- Visual Studio
-- Postman / Thunder Client
 
 ---
 
