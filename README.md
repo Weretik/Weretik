@@ -68,7 +68,7 @@ My main focus is backend/full-stack development for real business processes: pro
 
 ## 🚀 Real Projects
 
-### 🔸 Kedr Store (https://github.com/users/Weretik/projects/7) — B2B/B2C E-commerce Platform
+### 🔸 Kedr Store — B2B/B2C E-commerce Platform
 **Links:** 
 - [Backend API](https://github.com/Weretik/BreviERP)
 - [Frontend](https://github.com/Weretik/brevi-web)
