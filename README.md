@@ -1,8 +1,23 @@
 # 👨‍💻 Full-Stack .NET Developer | ASP.NET Core / Angular
 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 I build business-oriented web systems, e-commerce platforms, CRM/ERP functionality, and internal automation tools using **ASP.NET Core**, **Angular**, **TypeScript**, **PostgreSQL**, **EF Core**, **Docker**, and **GitHub Actions**.
 
 My main focus is backend/full-stack development for real business processes: product data, pricing, orders, catalogs, admin panels, internal workflows, and preparation for integrations with systems like **1C**.
+
+---
+
+## 🔎 Currently
+
+- Building business-oriented web systems with **ASP.NET Core**, **Angular**, and **PostgreSQL**
+- Working on e-commerce, CRM/ERP foundations, product data, pricing, and internal automation
+- Improving backend architecture, database design, Docker, and CI/CD workflows
 
 ---
 
@@ -16,7 +31,6 @@ My main focus is backend/full-stack development for real business processes: pro
 
 ---
 
-
 ## 🛠️ Tech Stack
 
 | Area | Technologies & Skills |
@@ -27,22 +41,18 @@ My main focus is backend/full-stack development for real business processes: pro
 | **Architecture** | Clean Architecture, Layered Architecture, practical DDD / CQRS patterns, modular application structure, business logic modeling, validation pipelines |
 | **Infrastructure & Tools** | Docker, Docker Compose, Git / GitHub, GitHub Actions, basic CI/CD, VPS / deployment basics, Swagger / OpenAPI, JetBrains Rider, Visual Studio, Postman / Thunder Client |
 
-
 ---
 
 ## 🚀 Real Projects
 
-### 🔸 Kedr Store — B2B/B2C E-commerce Platform
-**Links:** 
-- [Backend API](https://github.com/Weretik/BreviERP)
-- [Frontend](https://github.com/Weretik/brevi-web)
+### 🔸 KedrStore — B2B/B2C E-commerce Platform
 
-A commercial e-commerce platform developed with separate backend and frontend parts.  
-The project is focused on product catalog structure, business content, product data management, and preparation for future integration with **1C**.
+[Backend API](https://github.com/Weretik/KedrStore) · [Frontend](https://github.com/Weretik/kedr-web)
+
+Commercial e-commerce platform with product catalog, business content, product data structure, and preparation for future 1C integration.
 
 **Key areas:**
 - Product catalog and public website functionality
-- Informational pages and business content structure
 - Product, category, and attribute data modeling
 - REST API and frontend logic implementation
 - PostgreSQL data structure for future business data exchange
@@ -55,11 +65,10 @@ The project is focused on product catalog structure, business content, product d
 ---
 
 ### 🔸 Brevi Business System — Manufacturing & CRM/ERP Foundation
-**Links:** 
-- [Backend API](https://github.com/Weretik/KedrStore)
-- [Frontend](https://github.com/Weretik/kedr-web)
- 
-A web system for a manufacturing business, focused on product data, fabrics, pricing logic, production parameters, and the technical foundation for future CRM/ERP functionality.
+
+[Backend API](https://github.com/Weretik/BreviERP) · [Frontend](https://github.com/Weretik/brevi-web)
+
+Web system for a manufacturing business focused on product data, fabrics, pricing logic, production parameters, and CRM/ERP foundation.
 
 **Key areas:**
 - Public website / online catalog functionality
@@ -71,7 +80,7 @@ A web system for a manufacturing business, focused on product data, fabrics, pri
 - Analysis of real business needs and conversion into technical requirements
 
 **Tech stack:**  
-`ASP.NET Core` `C#` `Angular` `TypeScript` `PostgreSQL` `EF Core` `REST API` `Docker` `GitHub`
+`ASP.NET Core` `C#` `Angular` `TypeScript` `PostgreSQL` `EF Core` `REST API` `Docker`
 
 ---
 
@@ -79,13 +88,6 @@ A web system for a manufacturing business, focused on product data, fabrics, pri
 
 Testing process for the [Brevi website](https://brevi.com.ua/).  
 The objective was to evaluate website functionality, usability, and API performance, detect issues, and provide structured reports for improvements.
-
-**Key areas:**
-- Functional testing
-- Usability review
-- API performance checks
-- Bug reporting
-- Improvement recommendations
 
 **Skills:**  
 `QA` `Manual Testing` `API Testing` `Bug Reports` `Usability Testing`
@@ -131,21 +133,25 @@ I am interested in backend/full-stack development for:
 
 ## 📫 Contacts
 
-- **LinkedIn:** [linkedin.com/in/vitaliythupin](https://www.linkedin.com/in/vitaliythupin/)
-- **GitHub:** [github.com/Weretik](https://github.com/Weretik)
-- **Email:** VitaliyThupin@gmail.com
-- **Telegram:** [@Vitaliy_DOTNET](https://t.me/Vitaliy_DOTNET)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitaliy%20Tsiupin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitaliythupin/)
+[![GitHub](https://img.shields.io/badge/GitHub-Weretik-181717?style=flat&logo=github&logoColor=white)](https://github.com/Weretik)
+[![Telegram](https://img.shields.io/badge/Telegram-@Vitaliy_DOTNET-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Vitaliy_DOTNET)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vitaliy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weretik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Weretik&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://nirzak-streak-stats.vercel.app/?user=Weretik&theme=dark&hide_border=false" />
+</p>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Weretik&theme=dark&hide_border=false)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weretik&theme=dark&hide_border=false&layout=compact" />
+</p>
 
 <!--
 Optional:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Weretik&theme=dark&hide_border=false&layout=compact)
+If Top Languages shows irrelevant languages from old or learning repositories, remove this block.
 -->
 
