@@ -68,7 +68,10 @@ My main focus is backend/full-stack development for real business processes: pro
 
 ## 🚀 Real Projects
 
-### 🔸 [KedrStore](https://github.com/users/Weretik/projects/7) — B2B/B2C E-commerce Platform
+### 🔸 Kedr Store (https://github.com/users/Weretik/projects/7) — B2B/B2C E-commerce Platform
+**Links:** 
+- [Backend API](https://github.com/Weretik/BreviERP)
+- [Frontend](https://github.com/Weretik/brevi-web)
 
 A commercial e-commerce platform developed with separate backend and frontend parts.  
 The project is focused on product catalog structure, business content, product data management, and preparation for future integration with **1C**.
@@ -87,8 +90,11 @@ The project is focused on product catalog structure, business content, product d
 
 ---
 
-### 🔸 [Brevi Business System](https://github.com/users/Weretik/projects/8) — Manufacturing & CRM/ERP Foundation
-
+### 🔸 Brevi Business System — Manufacturing & CRM/ERP Foundation
+**Links:** 
+- [Backend API](https://github.com/Weretik/KedrStore)
+- [Frontend](https://github.com/Weretik/kedr-web)
+ 
 A web system for a manufacturing business, focused on product data, fabrics, pricing logic, production parameters, and the technical foundation for future CRM/ERP functionality.
 
 **Key areas:**
@@ -119,18 +125,6 @@ The objective was to evaluate website functionality, usability, and API performa
 
 **Skills:**  
 `QA` `Manual Testing` `API Testing` `Bug Reports` `Usability Testing`
-
----
-
-## 📚 Learning & Pet Projects
-
-### 📌 [.NET Developer Learning Path](https://github.com/users/Weretik/projects/4)
-
-A structured learning project created to organize my .NET Developer training.  
-It includes practical tasks and topics related to **C#**, **SQL**, **Entity Framework Core**, **ASP.NET Core**, and backend development.
-
-**Skills:**  
-`C#` `.NET` `ASP.NET Core` `SQL` `EF Core`
 
 ---
 
