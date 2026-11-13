@@ -1,157 +1,97 @@
-# 👨‍💻 Full-Stack .NET Developer | ASP.NET Core / Angular
-
+# 👨‍💻 Full-Stack .NET Developer | ASP.NET Core, React, Next.js
+ 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-I build business-oriented web systems, e-commerce platforms, CRM/ERP functionality, and internal automation tools using **ASP.NET Core**, **Angular**, **TypeScript**, **PostgreSQL**, **EF Core**, **Docker**, and **GitHub Actions**.
-
-My main focus is backend/full-stack development for real business processes: product data, pricing, orders, catalogs, admin panels, internal workflows, and preparation for integrations with systems like **1C**.
-
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+ 
+I build business systems for real companies: **ERP/CRM**, **e-commerce** and **back-office tools**.
+Since 2025 I have built two production platforms from scratch, end to end: architecture, backend, frontend, mobile, CI/CD and cloud.
+ 
+Before development I worked **4.5 years in distribution with CRM and 1C**, so I start with the business process, not with the code.
+ 
+- 🏗️ 2 modular monoliths on **.NET 10**: ~610 REST endpoints, ~160 PostgreSQL tables
+- ✅ **2,000+** automated tests, including architecture tests
+- ⏱️ Commercial offer: **half a day → 5 minutes**
+- 📈 **+15%** monthly profit for one client after launch
+- ⚡ Managers work **~25% faster** at another client
 ---
-
-## 🔎 Currently
-
-- Building business-oriented web systems with **ASP.NET Core**, **Angular**, and **PostgreSQL**
-- Working on e-commerce, CRM/ERP foundations, product data, pricing, and internal automation
-- Improving backend architecture, database design, Docker, and CI/CD workflows
-
----
-
-## 🧠 About Me
-
-- Full-Stack .NET Developer focused on **business systems**, **e-commerce**, **CRM/ERP**, and **internal automation**
-- Strong practical understanding of **product data**, **pricing logic**, **orders**, **inventory-related workflows**, and **business requirements**
-- Experience with both backend and frontend development: **REST API**, database modeling, admin panels, and Angular-based UI
-- Interested in building maintainable systems for **CRM/ERP**, **e-commerce**, **logistics**, **inventory**, and **process automation**
-- Background in business operations, CRM, 1C, product data, documentation, and customer processes before moving fully into software development
-
----
-
-## 🛠️ Tech Stack
-
-| Area | Technologies & Skills |
-|---|---|
-| **Backend** | C#, ASP.NET Core, REST API, Entity Framework Core, Authentication / Authorization, MediatR basics, FluentValidation basics |
-| **Frontend** | Angular, TypeScript, HTML / CSS, RxJS, Angular Services, API integration, Admin panels and business UI |
-| **Databases** | PostgreSQL, SQL, database modeling, migrations, relations, indexes, query optimization basics |
-| **Architecture** | Clean Architecture, Layered Architecture, practical DDD / CQRS patterns, modular application structure, business logic modeling, validation pipelines |
-| **Infrastructure & Tools** | Docker, Docker Compose, Git / GitHub, GitHub Actions, basic CI/CD, VPS / deployment basics, Swagger / OpenAPI, JetBrains Rider, Visual Studio, Postman / Thunder Client |
-
----
-
+ 
 ## 🚀 Real Projects
-
-### 🔸 KedrStore — B2B/B2C E-commerce Platform
-
-[Backend API](https://github.com/Weretik/KedrStore) · [Frontend](https://github.com/Weretik/kedr-web)
-
-Commercial e-commerce platform with product catalog, business content, product data structure, and preparation for future 1C integration.
-
-**Key areas:**
-- Product catalog and public website functionality
-- Product, category, and attribute data modeling
-- REST API and frontend logic implementation
-- PostgreSQL data structure for future business data exchange
-- Preparation of product data structure and requirements for future 1C integration
-- Deployment-related tasks using Docker, GitHub, and GitHub Actions
-
-**Tech stack:**  
-`ASP.NET Core` `C#` `Angular` `TypeScript` `PostgreSQL` `EF Core` `REST API` `Docker` `GitHub Actions`
-
----
-
-### 🔸 Brevi Business System — Manufacturing & CRM/ERP Foundation
-
+ 
+### 🔸 Brevi — ERP/CRM for a workwear manufacturer
+ 
 [Backend API](https://github.com/Weretik/BreviERP) · [Frontend](https://github.com/Weretik/brevi-web)
-
-Web system for a manufacturing business focused on product data, fabrics, pricing logic, production parameters, and CRM/ERP foundation.
-
-**Key areas:**
-- Public website / online catalog functionality
-- Product and fabric data management
-- Input data and production parameter management
-- Pricing logic based on materials, business rules, and production processes
-- Foundation for future CRM/ERP functionality: products, prices, orders, and production information
-- Backend authorization and basic access control
-- Analysis of real business needs and conversion into technical requirements
-
-**Tech stack:**  
-`ASP.NET Core` `C#` `Angular` `TypeScript` `PostgreSQL` `EF Core` `REST API` `Docker`
-
+ 
+The business ran on scattered Google Sheets. I replaced them with one system.
+ 
+- Modular monolith: **12 modules** (catalog, CRM, production, warehouse, purchasing, accounting, AI), **~430 endpoints**, **~110 tables**
+- Automatic price calculation from materials and production rules: a commercial offer takes **5 min instead of half a day**, a workshop task **5–10 min instead of 2 hours**
+- **AI module**: reads supplier PDF invoices and turns them into structured purchase data (OpenAI)
+- **~1,000 tests** (NUnit), CI/CD with GitHub Actions to Google Cloud Run
+- Frontend: Next.js website, React + MUI + Redux Toolkit admin (migrated from Angular)
+`.NET 10` `ASP.NET Core` `EF Core` `PostgreSQL` `React` `Next.js` `OpenAI API` `Docker` `Google Cloud`
+ 
 ---
-
-### 🔸 [Brevi Website Testing](https://github.com/users/Weretik/projects/6) — QA / Website Testing Project
-
-Testing process for the [Brevi website](https://brevi.com.ua/).  
-The objective was to evaluate website functionality, usability, and API performance, detect issues, and provide structured reports for improvements.
-
-**Skills:**  
-`QA` `Manual Testing` `API Testing` `Bug Reports` `Usability Testing`
-
+ 
+### 🔸 Class Kedr — e-commerce platform for a hardware distributor
+ 
+[Backend API](https://github.com/Weretik/KedrStore) · [Frontend](https://github.com/Weretik/kedr-web)
+ 
+Replaced the company's old desktop app (Impulse). Managers now work **~25% faster**.
+ 
+- Modular monolith: **6 modules**, **~180 endpoints**, **~50 tables**, background jobs on Hangfire
+- **1C integration** (SOAP): products, prices and sales sync automatically
+- **React Native (Expo)** app for field managers to calculate prices on site
+- Next.js public website, React + MUI admin panel (migrated from Angular)
+- **~1,070 tests**: xUnit backend, frontend tests, Playwright e2e
+`.NET 10` `ASP.NET Core` `PostgreSQL` `React` `Next.js` `React Native` `1C` `Hangfire` `Playwright`
+ 
 ---
-
-### 📌 [Book-ye Website Testing Project](https://github.com/users/Weretik/projects/5)
-
-A team QA project focused on testing the Book-ye website.  
-The goal was to evaluate functionality, usability, critical user paths, and report detected issues.
-
-**Skills:**  
-`QA` `Manual Testing` `Team Project` `Bug Reports` `Test Cases`
-
+ 
+### 🧪 QA projects
+ 
+- [Brevi Website Testing](https://github.com/users/Weretik/projects/6): functionality, usability and API testing of [brevi.com.ua](https://brevi.com.ua/)
+- [Book-ye Website Testing](https://github.com/users/Weretik/projects/5): team project, test cases and bug reports
 ---
-
-## 🎯 Current Focus
-
-I am currently improving my skills in:
-
-- Advanced ASP.NET Core backend development
-- Angular and TypeScript application structure
-- PostgreSQL database design and optimization
-- Clean Architecture and practical DDD/CQRS patterns
-- Docker, deployment, and GitHub Actions
-- Business systems: CRM/ERP, e-commerce, logistics, inventory, and internal automation
-
+ 
+## 🛠️ Tech Stack
+ 
+| Area | Technologies |
+|---|---|
+| **Backend** | C#, .NET 10, ASP.NET Core Web API, EF Core, CQRS/Mediator, FluentValidation, Identity, Hangfire, Serilog |
+| **Frontend & Mobile** | React, Next.js, TypeScript, React Native (Expo), MUI, Redux Toolkit, Tailwind CSS, Nx. Also: Angular, Blazor |
+| **Databases** | PostgreSQL, data modeling, EF Core migrations, Redis (basics) |
+| **Architecture** | Modular monolith, Clean Architecture, DDD, CQRS, architecture tests |
+| **AI & Integrations** | OpenAI API, PDF data extraction, 1C (SOAP), Telegram Bot API |
+| **DevOps & Testing** | Docker, GitHub Actions, Google Cloud Run, Cloudflare, NUnit, xUnit, Vitest, Playwright |
+ 
 ---
-
-## 💼 Professional Interests
-
-I am interested in backend/full-stack development for:
-
-- CRM / ERP systems
-- E-commerce platforms
-- Internal business systems
-- Logistics and inventory tools
-- Product data and pricing systems
-- Process automation
-- Administrative panels and business dashboards
-
+ 
+## 🎯 Now learning
+ 
+AI engineering on .NET (RAG, tool calling, MCP) · design patterns · algorithms and performance · English
+ 
 ---
-
+ 
 ## 📫 Contacts
-
+ 
+Open to full-time roles and contracts · Remote or relocation
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitaliy%20Tsiupin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitaliythupin/)
-[![GitHub](https://img.shields.io/badge/GitHub-Weretik-181717?style=flat&logo=github&logoColor=white)](https://github.com/Weretik)
 [![Telegram](https://img.shields.io/badge/Telegram-@Vitaliy_DOTNET-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Vitaliy_DOTNET)
-
+ 
 ---
-
+ 
 ## 📊 GitHub Stats
-
+ 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Weretik&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
   <img height="160" src="https://nirzak-streak-stats.vercel.app/?user=Weretik&theme=dark&hide_border=false" />
 </p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weretik&theme=dark&hide_border=false&layout=compact" />
-</p>
-
-<!--
-Optional:
-If Top Languages shows irrelevant languages from old or learning repositories, remove this block.
--->
-
+ 
