@@ -54,6 +54,16 @@ Replaced the company's old desktop app (Impulse). Managers now work **~25% faste
  
 ---
  
+### 🧩 Open source: Fullstack Modular Template
+
+[Repository](https://github.com/Weretik/fullstack-modular-template)
+
+The starter I use for new projects: a **.NET 10 modular monolith** (Identity, Catalog, Orders) on PostgreSQL with an outbox, idempotent orders and architecture tests, a **Next.js** storefront and a **React** admin with a typed client generated from OpenAPI. Every lasting choice is written down as an ADR (15 records).
+
+`.NET 10` `ASP.NET Core` `PostgreSQL` `React` `Next.js` `TypeScript` `Nx` `OpenAPI`
+
+---
+
 ### 🧪 QA projects
  
 - [Brevi Website Testing](https://github.com/users/Weretik/projects/6): functionality, usability and API testing of [brevi.com.ua](https://brevi.com.ua/)
