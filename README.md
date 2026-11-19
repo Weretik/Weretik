@@ -64,6 +64,15 @@ The starter I use for new projects: a **.NET 10 modular monolith** (Identity, Ca
 
 ---
 
+### 📐 Architecture Review Portfolio
+
+[Repository](https://github.com/Weretik/architecture-review-portfolio)
+
+How I review a production system: my checklist (Quick, Standard, Deep), a real ERP case study with before → after tables, C4 diagrams, ADRs and dependency rules enforced in CI.
+
+`Software Architecture` `ADR` `C4` `Architecture tests` `.NET`
+---
+
 ### 🧪 QA projects
  
 - [Brevi Website Testing](https://github.com/users/Weretik/projects/6): functionality, usability and API testing of [brevi.com.ua](https://brevi.com.ua/)
